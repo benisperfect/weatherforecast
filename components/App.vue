@@ -1,8 +1,8 @@
 <script setup>
   import topbar from './components/Topbar.vue';
-  import sidebar from 'Sidebar.vue';
-  import mainscreen from 'MainLayout.vue';
-  import WeatherCard from 'WeatherCard.vue';
+  import sidebar from './components/Sidebar.vue';
+  import mainscreen from './components/MainLayout.vue';
+  import WeatherCard from './components/WeatherCard.vue';
 </script>
 
 <template>
