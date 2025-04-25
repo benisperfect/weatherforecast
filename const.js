@@ -1,0 +1,22 @@
+export const body = document.querySelector("body");
+export const menuButton = document.getElementById("menubutton");
+export const sidebar = document.getElementById("sidebar");
+export const sidebarpic = document.getElementById("menubutton");
+export const signinbar = document.getElementById("signinbar");
+export const settingbuttonText = document.getElementById("return");
+export const loginbuttonbox = document.getElementById("loginbuttonbox");
+export const loginscreenText = document.getElementById("loginscreentext");
+export const loginoutScreen = document.getElementById("loginoutscreen");
+export const loginBox = document.getElementById("loginlabel");
+export const logInButton = document.getElementById("loginbutton");
+export const usernamelabel = document.getElementById("username");
+export const passwordlabel = document.getElementById("password");
+export const incorrectloginText = document.getElementById("incorrectlogintext");
+export const profile = document.getElementById("profile");
+export const profileText = document.getElementById("user-info");
+export const logout = document.getElementById("logout");
+export const HomeTextButton = document.getElementById("home");
+export const darklight = document.getElementById("daynighticon");
+export const darklightText = document.getElementById("darklight");
+export const mainscreen = document.getElementById("mainscreen");
+
